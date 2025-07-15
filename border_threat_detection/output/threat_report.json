@@ -1,0 +1,23 @@
+{
+    "Sensor": {
+        "vibration": 0.53,
+        "seismic": 0.49,
+        "intrusion_detected": false
+    },
+    "Vision": {
+        "file": "assets/sample_video1.mp4",
+        "label": [
+            "train",
+            "bench"
+        ],
+        "detection": null
+    },
+    "NLP": [
+        "violence",
+        "terrorism"
+    ],
+    "Threat Level": {
+        "threat_score": 2,
+        "threat_level": "Low Threat"
+    }
+}

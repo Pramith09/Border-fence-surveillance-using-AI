@@ -1,0 +1,21 @@
+# Core Libraries
+torch
+torchvision
+opencv-python
+matplotlib
+numpy
+
+# HuggingFace Transformers for NLP
+transformers
+
+# For downloading pre-trained models
+sentencepiece
+requests
+
+# YOLOv5 and support libraries (if using local clone)
+pandas
+PyYAML
+seaborn
+
+# Optional (for file handling and progress bars)
+tqdm
